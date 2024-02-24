@@ -1,1 +1,7 @@
 .ipynb_checkpoints
+models/
+data/
+files/
+images/
+MNIST/
+CIFAR10/
